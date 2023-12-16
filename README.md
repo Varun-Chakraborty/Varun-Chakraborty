@@ -10,7 +10,7 @@ I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning 
 - Asynchronous JS
 
 ## 🚀 Featured Projects
-- [Currency Converter] (https://github.com/Varun-Chakraborty/mini-project-currency-converter)
-- [Stone, Paper and Scissors game] (https://github.com/Varun-Chakraborty/mini-project-stone-paper-scissors)
+- [Currency Converter](https://github.com/Varun-Chakraborty/mini-project-currency-converter)
+- [Stone, Paper and Scissors game](https://github.com/Varun-Chakraborty/mini-project-stone-paper-scissors)
 
 Let's connect and collaborate! Feel free to explore my projects and reach out for discussions or collaborations. Happy coding! 🌐
