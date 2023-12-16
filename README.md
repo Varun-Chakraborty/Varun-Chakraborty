@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**Varun-Chakraborty/Varun-Chakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning and creativity. Welcome to my GitHub playground! 🚀
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Basics in Java, Python and C++
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Asynchronous JS
+
+## 🚀 Featured Projects
+- Currency Converter [https://github.com/Varun-Chakraborty/mini-project-currency-converter]
+- Stone, Paper and Scissors game [https://github.com/Varun-Chakraborty/mini-project-stone-paper-scissors]
+
+Let's connect and collaborate! Feel free to explore my projects and reach out for discussions or collaborations. Happy coding! 🌐
