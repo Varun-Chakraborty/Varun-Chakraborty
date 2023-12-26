@@ -7,7 +7,8 @@ I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning 
 - HTML, CSS, JavaScript
 
 ## 🌱 Currently Learning
-- Asynchronous JS
+- Advanced JS
+- Some projects based on HTML, CSS and JS
 
 ## 🚀 Featured Projects
 - [Currency Converter](https://github.com/Varun-Chakraborty/mini-project-currency-converter)
