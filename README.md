@@ -11,6 +11,7 @@ I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning 
 - Some projects based on HTML, CSS and JS
 
 ## 🚀 Featured Projects
+- [To-do list app](https://github.com/Varun-Chakraborty/mini-project-todo-list)
 - [Currency Converter](https://github.com/Varun-Chakraborty/mini-project-currency-converter)
 - [Stone, Paper and Scissors Game](https://github.com/Varun-Chakraborty/mini-project-stone-paper-scissors)
 - [Tic-Tac-Toe Game](https://github.com/Varun-Chakraborty/mini-project-tic-tac-toe)
