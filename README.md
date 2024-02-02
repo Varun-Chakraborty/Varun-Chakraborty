@@ -4,11 +4,10 @@ I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning 
 
 ## 🔧 Technologies & Tools
 - Basics in Java, Python and C++
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Express JS
 
 ## 🌱 Currently Learning
-- Advanced JS
-- Some projects based on HTML, CSS and JS
+- [React JS](https://github.com/facebook/react)
 
 ## 🚀 Featured Projects
 - [To-do list app](https://github.com/Varun-Chakraborty/mini-project-todo-list)
