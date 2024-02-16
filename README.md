@@ -11,6 +11,7 @@ I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning 
 
 ## 🚀 Featured Projects
 - [Mini-Quiz](https://github.com/Varun-Chakraborty/Mini-Quiz)
+- [Spotify-Clone](https://github.com/Varun-Chakraborty/project-spotify-clone)
 - [To-do list app](https://github.com/Varun-Chakraborty/mini-project-todo-list)
 - [Currency Converter](https://github.com/Varun-Chakraborty/mini-project-currency-converter)
 - [Stone, Paper and Scissors Game](https://github.com/Varun-Chakraborty/mini-project-stone-paper-scissors)
