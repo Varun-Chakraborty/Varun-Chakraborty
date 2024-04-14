@@ -10,6 +10,7 @@ I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning 
 - [React JS](https://github.com/facebook/react)
 
 ## 🚀 Featured Projects
+- [Blog Post](https://github.com/Varun-Chakraborty/blog-post)
 - [To-do list app](https://github.com/Varun-Chakraborty/To-Do-List-React)
 - [Spotify-Clone](https://github.com/Varun-Chakraborty/project-spotify-clone)
 - [Currency Converter](https://github.com/Varun-Chakraborty/mini-project-currency-converter)
