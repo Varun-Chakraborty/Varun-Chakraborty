@@ -10,7 +10,7 @@ I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning 
 - Full stack Projects
 
 ## React Projects
-- [Blog Post (planning to shift it to full stack project](https://github.com/Varun-Chakraborty/blog-post)
+- [Blog Post (planning to shift it to full stack project)](https://github.com/Varun-Chakraborty/blog-post)
 - [Currency Convert (remake)](https://github.com/Varun-Chakraborty/currency-converter-react)
 - [Todo List (remake)](https://github.com/Varun-Chakraborty/To-Do-List-React)
 
