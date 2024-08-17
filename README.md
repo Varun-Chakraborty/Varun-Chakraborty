@@ -4,7 +4,7 @@ I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning 
 
 ## 🔧 Technologies & Tools
 - Basics in Java, Python and C++
-- HTML, CSS, JavaScript, Express JS
+- HTML, CSS, JavaScript, ReactJs & Express JS
 
 ## 🌱 Currently Working on:
 - Full stack Projects
