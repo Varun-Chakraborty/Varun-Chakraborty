@@ -11,7 +11,8 @@ I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning 
 
 ## React Projects
 - [Blog Post (planning to shift it to full stack project)](https://github.com/Varun-Chakraborty/blog-post)
-- [Currency Convert (remake)](https://github.com/Varun-Chakraborty/currency-converter-react)
+- [Mini Quiz](https://github.com/Varun-Chakraborty/Mini-Quiz)
+- [Currency Converter (remake)](https://github.com/Varun-Chakraborty/currency-converter-react)
 - [Todo List (remake)](https://github.com/Varun-Chakraborty/To-Do-List-React)
 
 ## 🚀 Core HTML, CSS And JS based projects
