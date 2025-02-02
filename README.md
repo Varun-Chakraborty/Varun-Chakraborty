@@ -1,24 +1,31 @@
 # Hello, World! 👋
 
-I'm Varun Chakraborty, a aspiring developer on a journey of continuous learning and creativity. Welcome to my GitHub playground! 🚀
+I'm **Varun Chakraborty**, an aspiring developer on a journey of continuous learning and innovation. Welcome to my GitHub playground! 🚀
 
-## 🔧 Technologies & Tools
-- Basics in Java, Python and C++
-- HTML, CSS, JavaScript, ReactJs & Express JS
+## 🔧 Technologies & Tools  
+- **Languages:** Java, Python, C, C++ (Basics)  
+- **Web Development:** HTML, CSS, JavaScript, TypeScript  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js
+- **Web Technologies:** HTTP API, Web Sockets
+- **Databases:** PostgreSQL, Redis  
+- **DevOps & Tools:** CI/CD, Git, Vercel, Render, Docker (basics)  
 
-## 🌱 Currently Working on:
-- Full stack Projects
+## 🌱 Currently Working On  
+- Full-Stack Projects  
+- Exploring system programming & AI  
 
-## React Projects
-- [Blog Post](https://github.com/Varun-Chakraborty/blog-post)
-- [Mini Quiz](https://github.com/Varun-Chakraborty/Mini-Quiz)
-- [Currency Converter (remake)](https://github.com/Varun-Chakraborty/currency-converter-react)
-- [Todo List (remake)](https://github.com/Varun-Chakraborty/To-Do-List-React)
+## 🚀 Projects  
 
-## 🚀 Core HTML, CSS And JS based projects
-- [Stone, Paper and Scissors](https://github.com/Varun-Chakraborty/mini-project-stone-paper-scissors)
-- [Currency Converter](https://github.com/Varun-Chakraborty/mini-project-currency-converter)
-- [Tic Tac Toe](https://github.com/Varun-Chakraborty/mini-project-tic-tac-toe)
-- [Todo List](https://github.com/Varun-Chakraborty/mini-project-todo-list)
+### 🔹 Full-Stack Projects  
+- [**Blog Post App**](https://github.com/Varun-Chakraborty/blog-post) – A full-stack blogging platform.  
 
-Let's connect and collaborate! Feel free to explore my projects and reach out for discussions or collaborations. Happy coding! 🌐
+### 🎥 Vanilla JS Projects  
+- [**Spotify Clone**](https://github.com/Varun-Chakraborty/spotify-clone) – A frontend clone of Spotify using Vanilla JS.  
+
+### 🛠 Mini Projects  
+- [**Web Tech Experiments**](https://github.com/Varun-Chakraborty/mini-projects) – A collection of mini-projects exploring different web technologies.  
+
+---  
+
+Let's **connect and collaborate!** Feel free to explore my projects, contribute, or discuss ideas. Happy coding! 🌐🚀
