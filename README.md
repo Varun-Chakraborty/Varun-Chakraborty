@@ -13,7 +13,7 @@ I'm **Varun Chakraborty**, an aspiring developer on a journey of continuous lear
 
 ## 🌱 Currently Working On  
 - Full-Stack Projects  
-- Exploring system programming & AI  
+- Exploring Web3
 
 ## 🚀 Projects  
 
@@ -21,7 +21,7 @@ I'm **Varun Chakraborty**, an aspiring developer on a journey of continuous lear
 - [**Blog Post App**](https://github.com/Varun-Chakraborty/blog-post) – A full-stack blogging platform.  
 
 ### 🎥 Vanilla JS Projects  
-- [**Spotify Clone**](https://github.com/Varun-Chakraborty/spotify-clone) – A frontend clone of Spotify using Vanilla JS.  
+- [**Spotify Clone**](https://github.com/Varun-Chakraborty/project-spotify-clone) – A frontend clone of Spotify using Vanilla JS.  
 
 ### 🛠 Mini Projects  
 - [**Web Tech Experiments**](https://github.com/Varun-Chakraborty/mini-projects) – A collection of mini-projects exploring different web technologies.  
