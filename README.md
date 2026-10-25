@@ -1,16 +1,14 @@
-## Hi there 👋
+# ⚠️ This account has been renamed
 
-<!--
-**Varun-Chakraborty/Varun-Chakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub account is no longer in active use.
 
-Here are some ideas to get you started:
+I have changed my username. Please find my updated profile at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 **[github.com/skriptinveek](https://github.com/skriptinveek)**
+
+All my repositories have been moved and remain accessible under the new username.
+Any links using the old username should redirect automatically.
+
+---
+
+*This account exists solely to preserve the old username and ensure existing links continue to work.*
